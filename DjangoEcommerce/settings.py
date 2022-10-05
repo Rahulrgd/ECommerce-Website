@@ -26,7 +26,7 @@ SECRET_KEY = '8$37$=e=f7mf%6zlyu==-wosqc&xt%rq&+fbs&rl72)z)7z89s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'radiant-scrubland-79448.herokuapp.com']
 
 
 # Application definition
